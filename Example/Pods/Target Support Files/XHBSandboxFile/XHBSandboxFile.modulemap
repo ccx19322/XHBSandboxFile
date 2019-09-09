@@ -1,0 +1,6 @@
+framework module XHBSandboxFile {
+  umbrella header "XHBSandboxFile-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XHBSandboxFile (0.1.0)
+
+DEPENDENCIES:
+  - XHBSandboxFile (from `../`)
+
+EXTERNAL SOURCES:
+  XHBSandboxFile:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XHBSandboxFile: 896cc16df909f26cdc16f7feb021cc1c882971dc
+
+PODFILE CHECKSUM: 99efcb2de8f03dba41570f4e87d50cc65aec129c
+
+COCOAPODS: 1.6.1

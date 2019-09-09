@@ -63,10 +63,10 @@
 		8D39E4C1FF722FF026181CED /* Pods-XHBSandboxFile_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XHBSandboxFile_Example.debug.xcconfig"; path = "Target Support Files/Pods-XHBSandboxFile_Example/Pods-XHBSandboxFile_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A199E80C9B87A57945D3C321 /* Pods_XHBSandboxFile_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XHBSandboxFile_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B343806211B275B2CDA788E8 /* Pods-XHBSandboxFile_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XHBSandboxFile_Example.release.xcconfig"; path = "Target Support Files/Pods-XHBSandboxFile_Example/Pods-XHBSandboxFile_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B44CF1B35732069A52D58EEF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B44CF1B35732069A52D58EEF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		CE7376F05BC45FE571D9CF05 /* Pods-XHBSandboxFile_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XHBSandboxFile_Tests.debug.xcconfig"; path = "Target Support Files/Pods-XHBSandboxFile_Tests/Pods-XHBSandboxFile_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D5F13153072435EA49B999BA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		F808511A778E7C68D0847184 /* XHBSandboxFile.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = XHBSandboxFile.podspec; path = ../XHBSandboxFile.podspec; sourceTree = "<group>"; };
+		D5F13153072435EA49B999BA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F808511A778E7C68D0847184 /* XHBSandboxFile.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XHBSandboxFile.podspec; path = ../XHBSandboxFile.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,7 +193,6 @@
 				CE7376F05BC45FE571D9CF05 /* Pods-XHBSandboxFile_Tests.debug.xcconfig */,
 				7985748872925EE7C901209F /* Pods-XHBSandboxFile_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
