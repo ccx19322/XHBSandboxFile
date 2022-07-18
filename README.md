@@ -22,7 +22,7 @@ pod 'XHBSandboxFile'
 
 ## Author
 
-ccx19322, chenchaoxu@taqu.cn
+ccx19322, chenchaoxu19322@163.com
 
 ## License
 
